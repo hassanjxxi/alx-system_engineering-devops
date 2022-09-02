@@ -1,2 +1,2 @@
-git commit -m 'test'
+#!/bin/bash
 chown -R vincent:staff *
